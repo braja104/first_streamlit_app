@@ -7,5 +7,5 @@ streamlit.text('\N{egg}Boiled_Egg Half Boil')
 streamlit.header('Build Your Own Fruit Smoothie')
 streamlit.text('\N{grapes} Grape Juice')
 streamlit.text('\N{melon} Melon')
-streamlit.text('\N{peach} Peach'}
+streamlit.text('\N{peach} Peach')
 streamlit.text{'\N{blueberries} Blueberries')
